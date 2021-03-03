@@ -1,0 +1,15 @@
+ O volume na unidade C ‚ Freire-2010
+ O N£mero de S‚rie do Volume ‚ 4800-D726
+
+ Pasta de C:\GetHub\RotacaoGitLocal\RotacaoGitHub
+
+03/03/2021  16:22    <DIR>          .
+03/03/2021  16:22    <DIR>          ..
+03/03/2021  14:24               482 .gitignore
+03/03/2021  16:22                 0 Arquivo3.txt
+03/03/2021  14:34                34 ArquivoRotacao 03-03-2021.txt
+03/03/2021  14:34                34 ArquivoRotacao Copia 03-03-2021.txt
+03/03/2021  14:24            35.823 LICENSE
+03/03/2021  14:24                50 README.md
+               6 arquivo(s)         36.423 bytes
+               2 pasta(s)   261.934.329.856 bytes dispon¡veis
